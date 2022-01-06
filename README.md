@@ -8,4 +8,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://miro.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/miro.svg" alt="miro" width="40" height="40"/> </a> </p>
+<a href="https://miro.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/miro.svg" alt="miro" width="40" height="40"/> </a>
