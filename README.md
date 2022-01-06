@@ -6,8 +6,8 @@
 I'm Nanda Ruben Bethelgusa from Indonesia
 
 ## 💻 My Project
-### SiKOMO
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F9zkNhLrO97CG64L4APHZCK%2Ffree-app-ui-elements-for-figma%3Fnode-id%3D5%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D5%253A2" allowfullscreen></iframe>
+- SiKOMO <a href="https://www.figma.com/proto/9zkNhLrO97CG64L4APHZCK/free-app-ui-elements-for-figma?node-id=5%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+
 
 ## 📊 My Github Stats
 
