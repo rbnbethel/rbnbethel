@@ -6,7 +6,9 @@
 I'm Nanda Ruben Bethelgusa from Indonesia
 
 ## 💻 My Project
-- **[SiKOMO](https://www.figma.com/proto/9zkNhLrO97CG64L4APHZCK/free-app-ui-elements-for-figma?node-id=5%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2)**
+### SiKOMO
+- **[PitchDeck](https://drive.google.com/file/d/1lVE1J8-jsNfMozyDNL3MWKfSMvd-XphV/view?usp=sharing)**
+- **[Prototype](https://www.figma.com/proto/9zkNhLrO97CG64L4APHZCK/free-app-ui-elements-for-figma?node-id=5%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2)**
 
 
 ## 📊 My Github Stats
