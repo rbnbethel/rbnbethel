@@ -6,7 +6,7 @@
 I'm Nanda Ruben Bethelgusa from Indonesia
 
 ## 💻 My Project
-- SiKOMO <a href="https://www.figma.com/proto/9zkNhLrO97CG64L4APHZCK/free-app-ui-elements-for-figma?node-id=5%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+- **[SiKOMO](https://www.figma.com/proto/9zkNhLrO97CG64L4APHZCK/free-app-ui-elements-for-figma?node-id=5%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2)**
 
 
 ## 📊 My Github Stats
