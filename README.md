@@ -27,5 +27,6 @@ I'm Nanda Ruben Bethelgusa form Indonesia
 
 ## Connect with me:
 <p align="left">
-<a href="https://instagram.com/ruben_bethel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruben_bethel" height="30" width="40" /></a>
+<a href = "https://www.instagram.com/ruben_bethel/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/nanda-ruben-bethelgusa-6a82931b9"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
