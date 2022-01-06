@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/a/C8ZiMIM" height="175px"/></a>
-
 <h1 align="center">Hi 👋, I'm Ruben</h1>
 <h3 align="center">A passionate UI/UX Designer from Indonesia</h3>
 
