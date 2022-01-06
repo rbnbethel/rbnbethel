@@ -3,7 +3,7 @@
 
 
 ## 🙋‍♂️ About Me
-
+I'm Nanda Ruben Bethelgusa form Indonesia
 
 ## 📊 My Github Stats
 
