@@ -3,8 +3,7 @@
 
 
 ## 🙋‍♂️ About Me
-I'm **Nanda Ruben Bethelgusa** from Indonesia, a UI/UX Design enthusiast. I'm curently attending Biomedical Engineering undergraduate program at Universitas Gadjah Mada.
-
+I'm **Nanda Ruben Bethelgusa** from Indonesia, a UI/UX Design enthusiast. I'm curently attending Biomedical Engineering undergraduate program at Universitas Gadjah Mada. I really enjoy learning ui, ux, design. I also enjoyed learning WordPress.
 ## 💻 My Project
 ### SiKOMO
 - **[PitchDeck](https://drive.google.com/file/d/1lVE1J8-jsNfMozyDNL3MWKfSMvd-XphV/view?usp=sharing)**
